@@ -1,1 +1,1 @@
-# img-grid
+# image-grid
