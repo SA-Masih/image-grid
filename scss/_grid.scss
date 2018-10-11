@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.mt-2 {
+    margin-top: 20px;
+}
+.ba-container {
+    width: 100%;
+    max-width: 1230px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+.ba-row {
+    font-size: 0;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+[class^="ba-col"] {
+    display: inline-block;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+.mb-0{
+	margin-bottom: 0;
+}
+.ba-col-6 {
+    width: 50%;
+}
+.ba-col-4 {
+    width: 33.3%;
+}
+.ba-col-3 {
+    width: 25%;
+}
+.ba-col-2 {
+    width: 16.6%;
+}
